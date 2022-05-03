@@ -18,7 +18,7 @@ You can clone the project from GitHub by copying either HTTPS or SSH link.Then t
 
 ## Usage
 
-Go to command prompt in the root directory of the project and type npm start and hit enter. Then open your web browser and type localhost:3001 in search bar and the landing page will appear. Click on Get Started Button and you will be taken to notes page and then you can add new note,view existing notes and delete notes.
+To run the app locally go to command prompt in the root directory of the project and type npm start and hit enter. Then open your web browser and type localhost:3001 in search bar and the landing page will appear. Click on Get Started Button and you will be taken to notes page and then you can add new note,view existing notes and delete notes.
 
 
 ## License
